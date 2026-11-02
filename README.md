@@ -102,7 +102,7 @@ The system is built on a clear separation of concerns between the **Streamlit Fr
 ### 🏛️ Full Project Architecture
 
 <div align="center">
-  <img src="Architecture_Diagram.png" alt="System Architecture" width="90%" />
+  <img src="/Diagram/Architecture_Diagram.png" alt="System Architecture" width="90%" />
 </div>
 
 > 📌 **What this shows:**
