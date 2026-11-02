@@ -28,11 +28,7 @@ except ImportError:
 
 load_dotenv()
 
-# ============================================================
-# Blog Writing Agent - Research Fine-Tuned (Gemini Native, No Images)
-# Architecture strictly based on 4_bwa_research_fine_tuned.ipynb:
-# START -> Router -> (Research?) -> Orchestrator -> Workers -> Reducer -> END
-# ============================================================
+
 
 
 # -----------------------------
