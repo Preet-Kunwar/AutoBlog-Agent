@@ -34,7 +34,7 @@
 
 ## 🌟 Overview
 
-> ### ✍️ *What is the AI Technical Blog Generator?*
+> ### ✍️ *What is the AutoBlog?*
 > The **AI Technical Blog Generator** is an autonomous multi-agent content generation platform engineered to produce deep, developer-grade technical articles. Unlike generic monolithic LLM prompts that suffer from hallucination, repetition, and mid-article drift, this system leverages a **fine-tuned LangGraph state machine** powered by **Google Gemini** and **Tavily AI Search**.
 >
 > It breaks down complex technical writing into an intelligent multi-stage pipeline: evaluating topic freshness upfront, gathering authoritative real-time evidence, engineering a structured multi-task plan, and writing all sections **in parallel** via dynamic map-reduce workers before assembling a unified, publication-ready Markdown file.
