@@ -2,7 +2,7 @@
 
   <img src="https://img.shields.io/badge/🧠_MULTI--AGENT_SYSTEM-LANGGRAPH_&_GEMINI_PIPELINE-8B5CF6?style=for-the-badge&labelColor=0F172A" alt="Header Badge" />
 
-  <h1>✍️ AI Technical Blog Generator</h1>
+  <h1> AutoBlog - Agent </h1>
   
   <p>
     <b><i>Your Autonomous Multi-Agent Technical Writer — Transform raw topics into structured, grounded, publication-ready Markdown in seconds.</i></b>
